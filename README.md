@@ -68,16 +68,16 @@
     My projects:
 </h3>
 <div align="center">
-  <a target="_BLANK" href="https://mjusbicher-ecommerce.netlify.app/">React E-Commerce</a>
+  <a target="_blank" href="https://mjusbicher-ecommerce.netlify.app/">React E-Commerce</a>
 </div>
 <div align="center">
-  <a target="_BLANK" href="https://mjusbicher-js-minigame.netlify.app/">JavaScript MiniGame</a>
+  <a target="_blank" href="https://mjusbicher-js-minigame.netlify.app/">JavaScript MiniGame</a>
 </div>
 <div align="center">
-  <a target="_BLANK" href="https://mjusbicher-html-project.netlify.app/">Bootstrap Web</a>
+  <a target="_blank" href="https://mjusbicher-html-project.netlify.app/">Bootstrap Web</a>
 </div>
 <div align="center">
-  <a target="_BLANK" href="https://react-netflix-cac.netlify.app/">Netflix app (WIP)</a>
+  <a target="_blank" href="https://react-netflix-cac.netlify.app/">Netflix app (WIP)</a>
 </div>
 <br>
 <p align="center">
