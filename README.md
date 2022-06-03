@@ -3,7 +3,7 @@
     <img 
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
     width='50'> 
-    My name is Martin Jusbicher
+    my name is Martin Jusbicher
 </h1>
 <h3 align="center">
     I'm a 24 years old Full Stack Developer from Buenos Aires, Argentina.
@@ -80,13 +80,18 @@
   <a target="_blank" href="https://react-netflix-cac.netlify.app/">Netflix app (WIP)</a>
 </div>
 <br>
+<h3 align="center">
+    Contact:
+</h3>
 <p align="center">
-    <a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank">
-        <img 
-        width='32px' align='center' 
-        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"
-        />
-    </a>
+    Email: jusbichermartin@gmail.com
+</p>
+<a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank">
+    <img 
+    width='32px' align='center' 
+    src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"
+    />
+</a>
 </p>
 
 <!--
