@@ -79,6 +79,7 @@
 <div align="center">
   <a target="_BLANK" href="https://react-netflix-cac.netlify.app/">Netflix app (WIP)</a>
 </div>
+<br>
 <p align="center">
     <a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank">
         <img 
