@@ -3,9 +3,11 @@
     <img 
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
     width='50'> 
-    I'm < Martin Jusbicher />
+    My name is Martin Jusbicher
 </h1>
-
+<h3 align="center">
+    I'm a Full Stack Developer
+</h3>
 
 
 <!--
