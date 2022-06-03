@@ -6,7 +6,7 @@
     My name is Martin Jusbicher
 </h1>
 <h3 align="center">
-    I'm a Full Stack Developer
+    I'm a 24 years old Full Stack Developer from Buenos Aires, Argentina.
 </h3>
 
 
