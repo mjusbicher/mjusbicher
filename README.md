@@ -1,4 +1,10 @@
-### Hi there 👋 my name is Martin Jusbicher
+<h1 align="center">
+    Hi! 
+    <img 
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
+    width='50'> 
+    I'm < Martin Jusbicher />
+</h1>
 
 
 
