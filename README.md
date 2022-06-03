@@ -51,6 +51,10 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFASGEZk5cd9b8owxaiY5Tn8t_bzm4n5fsJUByYfBxXlhFAW_7juzn0fSSnaywz62-qY&usqp=CAU" 
         alt="SEQUELIZE" height="40"/>
     </a>
+        <a href="https://www.w3schools.com/sql/" target="_blank">
+        <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" 
+        alt="SQL" width="40" height="40"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
         alt="GIT" width="40" height="40"/>
