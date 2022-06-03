@@ -8,9 +8,9 @@
 <h3 align="center">
     I'm a 24 years old Full Stack Developer from Buenos Aires, Argentina.
 </h3>
-<h4 align="center">
+<h3 align="center">
     My skills:
-</h4>
+</h3>
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -35,11 +35,6 @@
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
         alt="NODE" width="40" height="40"/>
-    </a> 
-    <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-        alt="EXPRESS" width="40" height="40"/>
-    </a> 
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
         alt="REACT" width="40" height="40"/>
@@ -56,17 +51,9 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFASGEZk5cd9b8owxaiY5Tn8t_bzm4n5fsJUByYfBxXlhFAW_7juzn0fSSnaywz62-qY&usqp=CAU" 
         alt="SEQUELIZE" height="40"/>
     </a>
-    <a href="https://datademia.es/blog/que-es-sql" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHtPf3JNY0qmUeKSnzNEpCtspxxK_mzeEPQ&usqp=CAU" 
-        alt="SQL" height="40"/>
-    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
         alt="GIT" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-        alt="POSTMAN" width="40" height="40"/>
     </a>
 </p> 
 
