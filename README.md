@@ -80,7 +80,13 @@
   <a target="_blank" href="https://react-netflix-cac.netlify.app/">Netflix app (WIP)</a>
 </div>
 <br>
-<p>
+<h3 align="center">
+    Contact:
+</h3>
+<p align="center">
+    Email: jusbichermartin@gmail.com
+</p>
+<p align="center">
     <a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank">
         <img 
         width='32px' align='center' 
