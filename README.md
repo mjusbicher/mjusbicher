@@ -63,7 +63,30 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
         alt="GIT" width="40" height="40"/>
     </a>
-</p> 
+</p>
+<h3 align="center">
+    My projects:
+</h3>
+<div align="center">
+  <a target="_BLANK" href="https://mjusbicher-ecommerce.netlify.app/">React E-Commerce</a>
+</div>
+<div align="center">
+  <a target="_BLANK" href="https://mjusbicher-js-minigame.netlify.app/">JavaScript MiniGame</a>
+</div>
+<div align="center">
+  <a target="_BLANK" href="https://mjusbicher-html-project.netlify.app/">Bootstrap Web</a>
+</div>
+<div align="center">
+  <a target="_BLANK" href="https://react-netflix-cac.netlify.app/">Netflix app (WIP)</a>
+</div>
+<p align="center">
+    <a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank">
+        <img 
+        width='32px' align='center' 
+        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"
+        />
+    </a>
+</p>
 
 <!--
 **mjusbicher/mjusbicher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
