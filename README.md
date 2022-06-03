@@ -47,9 +47,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
         alt="REDUX" width="40" height="40"/>
     </a>
-    <a href="https://www.npmjs.com/package/sequelize" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFASGEZk5cd9b8owxaiY5Tn8t_bzm4n5fsJUByYfBxXlhFAW_7juzn0fSSnaywz62-qY&usqp=CAU" 
-        alt="SEQUELIZE" height="40"/>
+    <a href="https://www.npmjs.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" 
+        alt="NPMjs" height="40"/>
     </a>
         <a href="https://www.w3schools.com/sql/" target="_blank">
         <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" 
