@@ -86,7 +86,7 @@
 <p align="center">
     Email: jusbichermartin@gmail.com
 </p>
-<a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank">
+<a href = 'https://www.linkedin.com/in/martin-jusbicher/' target="_blank" align="center">
     <img 
     width='32px' align='center' 
     src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"
