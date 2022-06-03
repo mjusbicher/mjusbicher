@@ -48,7 +48,7 @@
         alt="REDUX" width="40" height="40"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/403/342/png-clipart-npm-node-js-javascript-bower-github-angle-rectangle.png" 
+        <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" 
         alt="NPMjs" height="40"/>
     </a>
         <a href="https://www.w3schools.com/sql/" target="_blank">
