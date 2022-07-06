@@ -63,6 +63,10 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
         alt="GIT" width="40" height="40"/>
     </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
+        alt="FIREBASE" width="40" height="40"/>
+    </a>
 </p>
 <h3 align="center">
     My projects:
