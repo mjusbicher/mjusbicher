@@ -69,8 +69,14 @@
     </a>
 </p>
 <h3 align="center">
+    My skills:
+</h3>
+<h3 align="center">
     My projects:
 </h3>
+<div align="center">
+  <a target="_blank" href="https://mjusbicher.netlify.app/">Martin Jusbicher - Dev</a>
+</div>
 <div align="center">
   <a target="_blank" href="https://mjusbicher-ecommerce.netlify.app/">React E-Commerce</a>
 </div>
